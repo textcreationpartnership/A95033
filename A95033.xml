@@ -1,0 +1,161 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A vvarning from the Lord to this nation.</title>
+            <author>Taylor, Christopher, ca. 1615-1686.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95033</idno>
+            <idno type="STC">Wing T267</idno>
+            <idno type="STC">Thomason E848_4</idno>
+            <idno type="STC">ESTC R207321</idno>
+            <idno type="EEBO-CITATION">99866378</idno>
+            <idno type="PROQUEST">99866378</idno>
+            <idno type="VID">168218</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95033)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168218)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 128:E848[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A vvarning from the Lord to this nation.</title>
+                  <author>Taylor, Christopher, ca. 1615-1686.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1655]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed on page 5: C.T. = Christopher Taylor.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Apologetic works --  Early works to 1800.</term>
+               <term>Conduct of life --  Early works to 1800.</term>
+               <term>Inner Light --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:168218:1" rendition="simple:additions"/>
+            <head>A VVarning from the LORD to this Nation.</head>
+            <opener>
+               <dateline>
+                  <date>
+                     <add>July 9 1655</add>
+                  </date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">O</seg> England, England, who art departed from the living God, full of wickedneſs and abo<g ref="char:EOLhyphen"/>minations, full of deceit and hypocriſie; how art thou bettered for the judgements of God that have paſſed thorough thee? where is thy repentance and thy ſerving of the living God? now when the Lord hath given the Reſt, and Peace on every ſide; the ſword of thine enemy is not now within thy land, and thou didſt make large promiſes and proteſtations, if the Lord did but deliver thine enemie into thine hands, and overturne and cut down thine oppreſſors, and give the reſt, thou wouldeſt ſerve the Lord thy God a<g ref="char:EOLhyphen"/>lone, to ſignifie thy thankfulneſs to him for all his be<g ref="char:EOLhyphen"/>nefits towards thee; when thou waſt in diſtreſs thou ſought the Lord and cried unto him, and he delivered thee from thoſe that tormented and vexed thee; but where is now the fear of the living God found in thee; O unthankful Eng<g ref="char:EOLhyphen"/>land, thou now fitteſt quietly under thy own Vyne and Fig<g ref="char:EOLhyphen"/>tree, and enjoyeſt a land that flowes with plenty of abun<g ref="char:EOLhyphen"/>dance of all things, but thou art careleſs and regards not the fear of the living God, Pride and Oppreſſion did never more abound in thee than now it doth, thou art haughty and lifted
+<pb n="2" facs="tcp:168218:2"/>up in pride more than ever, never waſt thou ſo full of gaudy attire and proud inventions as now; and becauſe of oathes the land mournes, and the cry of the oppreſſed doth reach the eares of the Lord of Sabbaths; thou haſt a name that thou liveſt, but thou art dead; all thy former zeale which was kind<g ref="char:EOLhyphen"/>led in thee in the day of thy exerciſe, thou now being at eaſe is turned into pride, and pleaſures, and oppreſſion; What are we bettered by you the Powers of the Earth? where is Oppreſſion taken off? how are we eaſed? Nay you have forgotten the Lord your God who did deliver you from the houſe of Bondage, and are ſet down in their ſeats who were Oppreſſors, and know not the Lord; therefore the Lord is now witneſſing againſt thee oh England, and laying open thine Hypocriſie, and calling the to repentance, and every one that comes out of thy ſins, doth deliver his ſoul, and his life is given him for a prey; for <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s Lord is riding on in migh<g ref="char:EOLhyphen"/>ty power to cut thee off for ever, and remove the farre away out of his ſight, that thou ſhalt no more be called the People of the Lord; for thou impriſoneſt the Prophets, and mockeſt, ſtoneſt, and perſecuteſt thoſe that are ſent unto thee, and ſhed<g ref="char:EOLhyphen"/>deſt inocent bloud; Is this thy reformation, when drunk<g ref="char:EOLhyphen"/>ards, ſwearers, and curſed ſpeakers, goe openly up and down thy ſtreets unpuniſhed in the ſight of thoſe who are ſet up to do Juſtice, and thoſe thou pretends to be thy Teachers, are fleecing thee, and oppreſſing and impriſoning thoſe that will not put into their mouthes as the falſe Prophets of old did, who live in pride and are called Maſters, and flatter thee and do thee no good, but divine unto thee out of their own brain for money; Thus thou art all corrupt full of deceit and hy<g ref="char:EOLhyphen"/>pocriſie, therefore will the Lord plead with thee by fire and ſword, and thy ſlane will be many heaps upon heaps; then all thy laughter will be turned into mourning, and all thy glory and renown will wither and be conſumed into aſhes in this day of the Lord which will burn as an Oven, for the Lord is ſhowring down his indignation in flames of fire, to render vengeance upon all that know him not, and that which is for the fire, muſt to the fire, and that which is for the ſword, muſt to the ſword, and inſtead of well ſet hair will be bald<g ref="char:EOLhyphen"/>neſs,
+<pb n="3" facs="tcp:168218:2"/>and of a ſweet ſmell will be a ſtink, and an ill ſavour in your noiſtrils, and you ſhall be conſumed for ever the mouth of the Lord hath ſpoken it. And this is the day of the Lord which you put of, and continue in wantonneſs and pleaſures, living merrily upon the Earth, marrying and giving in mar<g ref="char:EOLhyphen"/>riage, as the old World did who regarded not <hi>Noah</hi> the Preacher of Righteouſneſs, who foreſeeing their deſtruction, prepared an Ark for the ſaving of himſelf and his family, and the Flood came and ſwept them all away in the height of their abominations, as he will do thee O England, who art war<g ref="char:EOLhyphen"/>ned and hardned againſt the fear of the Lord, increaſing in Wickedneſs, and filling up thy meaſure of abominations; Therefore will the Lord come upon the ſuddenly, and when thou cries Peace, Peace, then will come ſudden deſtructi<g ref="char:EOLhyphen"/>on; and this thou ſhalt witneſs to be the word of the Lord from the higheſt to the loweſt, that you may all ſee where you are, and how you are running on the broad way that leads to deſtruction; And return unto the fear of the Lord now whileſt thou haſt time, that the Lord may repent him of his fierce wrath that is gone out againſt thee, leaſt thou be conſumed in the fierceneſs of his anger and indignation, which will burn like fire againſt all the ungodly; and if this anger be but kindled a little, bleſſed are all they that put their truſt in him.</p>
+            <closer>
+               <signed>Chriſtopher Taylor.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>A Warninig, a Warning from the Lord unto you Oh all People.</head>
+            <p>Repent, Repent oh all People, repent, and return to the Lord ſpeedily now when he is calling you, and giving you all Warning and ſpace to Repent, oh Repent, repent ſpe<g ref="char:EOLhyphen"/>dily, and fear the living God, the day of the Lord is at hand, the mighty, dreadful, and terrible day of the Lord to all the ungodly is nigh at hand, and then muſt all the Tares, and un<g ref="char:EOLhyphen"/>profitable ones, and fruitleſs Trees, Drunkards, Swearers, Lyars, Blaſphemers, Slanderers, Scoffers and Scorners, and all proud and lofty ones, and luſtful ones, Couzeners, and
+<pb n="4" facs="tcp:168218:3"/>Cheaters, and Diſſemblers and Hypocrites, and all Earth<g ref="char:EOLhyphen"/>worms, and Raylers, and Perſecuters of the innocent, be called to an account before the Almighty God, who will ſit upon the Thron of Juſtice, and reward every one according to his works, and will be no reſpecter of perſons, Kings, and Rulers, Judges, Juſtices, and Magiſtrates, Lawyers, and Gentlemen, or however they be called or ſtiled, all that are proud and do wickedly ſhall be caſt out and conſumed for e<g ref="char:EOLhyphen"/>ver: Howle, howle, howle and lament yee tall Cedars, who are proud and lofty, who live in pride and pleaſures, ye ſtrong Oakes the Lord is coming to make ye bow before him, and tremble in his preſence, the terrible and dreadful Judgments of God will be poured forth upon you; Oh bow before him, ye that have the ſtouteſt looks you ſhall be as ſtubble in the fire, and chaffe before the wind, and all your glory will wither, and your remembrance will ſhrink, the mighty powerful God will daſh you a ſunder, oh all ye Hea<g ref="char:EOLhyphen"/>thens, Hypocrites, and ungodly ones, and caſt you out of his preſence for ever, and give ye your portion in the Lake that burns for ever; And you that laugh now and live mer<g ref="char:EOLhyphen"/>rily upon Earth in pride and pleaſures, ſhall then howl and mourn, and lament and weep and roar, and there ſhall be none to pitty you; Oh Repent, repent ſpedily oh all yee workers of iniquity, Prieſts and People ſigh and bow, the day of the Lord is at hand, from the Lord God Almighty do I declare it unto you; fear, fear, tremble, tremble, tremble before the Lord, leaſt you all be conſumed utterly and caſt out into everlaſting miſery; Oh all People prize, prize your time, and come down, and fear the Lord, and mind his voice, and teaching, the light in thy conſcience which ſhewes you ſin and evil, and be obedient, and caſt off the deeds of dark<g ref="char:EOLhyphen"/>neſs; Terrible fearful and dreadful will the Lord be to all the ungodly; merciful and loving to all that ſpeedily return unto him; Now you have time oh all People prize it, this is the day of your viſitation; Woe, woe, woe for ever for e<g ref="char:EOLhyphen"/>ver will be your portion if you harden your hearts, and live in careleſneſs and do not regard the day of your viſitation; knoweſt thou oh fool but this night thy ſoul may be requi<g ref="char:EOLhyphen"/>red
+<pb n="5" facs="tcp:168218:3"/>of thee, thou that puts the day of the Lord a farre of, and cries peace, peace: Therefore oh all People mind and con<g ref="char:EOLhyphen"/>ſider how you ſpend your time, and prize the everlaſting health and peace of your ſouls, before the enjoyment of earthly vanities, which will vaniſh away in a moment, and to you all this is the word of God.</p>
+            <closer>
+               <signed>C. T.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <p>Oh all People who have eares and cannot hear, eyes and ſee not, who run on headlong to your utter deſtruction in the broad way that leads to perdition, acting contrary to the pure law of God, the light that ſhines into the conſcience, which ſhews you ſin and evil, and yet can rejoyce in your pleaſures and delights, and in the midſt of your abominati<g ref="char:EOLhyphen"/>ons, the Drunkard rejoycing and delighting in drunkenneſs, the Swearer in oaths and curſed ſpeaking, the Scorner in ſcor<g ref="char:EOLhyphen"/>ning, the proud and Luſtful one glorying in their unclean<g ref="char:EOLhyphen"/>neſs and abominations, as if there were no God, tracing out their time without the fear of the Lord, and yet make a pro<g ref="char:EOLhyphen"/>feſſion of God and godlineſs, but deny the power and ſpirit which ſhould cleanſe them from their ſins, and deſtroy the works of the Devil, and purge out the old leaven, and make them a new lump; and are warned from the Lord God to return from their iniquities, and put away the evil of their doings from before the Lord, that they may come to inhe<g ref="char:EOLhyphen"/>rit eternal life, and are directed to the true light in the con<g ref="char:EOLhyphen"/>ſcience, the light of Chriſt, wherewith he hath inlightned every one that comes into the world to be guided by it, in what it makes manifeſt, which light doth ſearch the heart, and layes before every one that turns within to mind it all that they do in ſecret, every ſecret evil thought and action; and calls every one that minds it unto true repentance, and the fear of the Lord, and leadeth into the waies of holineſs all that hearken to its voice and are guided by it; and you who are exhorted to hearken to the teachings of the Lord within the conſcience, the light there which is true, and doth truly if you mind it ſhew you all your vain courſe of life, &amp; cheks you for all ſin and evil, and ſhews the way unto
+<pb n="6" facs="tcp:168218:4"/>God, and will ſhew you that without holineſs no man ſhall ſee the Lord; and evcept you be born again of the ſpirit you cannot enter into the kingdome of God, for no unclean thing enters there, but is ſhut out. And you who are exhorted to ceaſe from man whoſe breath is in his noiſtils, &amp; to mind that ſecret voice behind you, which checks you when you turn to the right hand or to the left to ſin againſt the Lord, which ſaith, this is the way ſhewing you that you ſhould repent and return from iniquity, and fear the living God, and not live in hypocriſie, in profeſſion and not in poſſeſſion: And this light lets every one ſee that minds it, plainly where the world lyes, how all the world lies in wickedneſs, in pride and envie, in covetouſneſs and oppreſſion, ſwearing and drun<g ref="char:EOLhyphen"/>kenneſs, and lying, and all manner of uncleanneſs, in ſcof<g ref="char:EOLhyphen"/>fing and ſcornfulneſs, and have light minds, living merrily and wantonly upon Earth, ſporting themſelves in the day time, living in fraud and deceit, couzening and cheating, and over reaching one another for filthy lucre, the rich op<g ref="char:EOLhyphen"/>preſſing the poore, and exhauncing and treaſuring up the Creation unto themſelves, and are devourers, and devours the Creation upon their luſts, whiles the poor are oppreſſed, and go begging up and down the ſtreets, they are inventing what they ſhall eat, and what they ſhall drink, and what they ſhall put on, feeding upon the luſt, living in pleaſures and pride, and going in gaudy attire, making their fellow crea<g ref="char:EOLhyphen"/>tures who are their equals duſt and aſhes, all of one mould and nature, to be their ſlaves, and to give them worſhip and honour, which is due unto God, unto whom alone belongs all glory and honour for ever. And to all you who take no warning nor do not repent and return unto the Lord, but turn the grace of God which hath appeared unto you into wantonneſs, and mind not the law of God written in the heart to be obedient to it, but walk contrary to it, living in pleaſures and hate to be reformed, thus ſaith the Lord, my furie ſhall ſurely come upon you to overturn you and caſt you out of my preſence for ever, and give you your portion in the lake that burns, I am calling upon you and you regard not, I am waiting and am a God of long ſuffering, and of
+<pb n="7" facs="tcp:168218:4"/>much patience, and do not deſire the death of a ſinner, and you return not, but you harden your hearts from my fear, you hate to be reformed, and do caſt my law behind your backs, and every one doth that which is pleaſant in your own eyes, my wayes you abhor, my meſſengers you hate and perſecute, ſtone and impriſon, and ſhed inocent blood, ſcof<g ref="char:EOLhyphen"/>fing, ſcorning, and deriding, woe be unto you, you that in<g ref="char:EOLhyphen"/>habit the earth, whom do you contend againſt, ſhall the clay ſtrive with the potter, my ſword is drawn out againſt you to cut you all down ye fruitleſs trees which cumber the ground and are unprofitable, and who ſhall deliver you out of my hands, you that are careleſs and mind not to return when I call, but put the evil day a farre of, and cry peace, peace, when you call and cry out of the lake and pit I will not hear your cry, but will ſurely turn away from you, and woe and miſery ſhall be your portion for ever; the Lord by his mighty power will pull down all that are proud and lofty, and all that live wickedly, though now they regard not; there<g ref="char:EOLhyphen"/>fore woe unto England if thou continue in hardneſs of heart, ye Judges, Rulers, and Lawyers, Prieſt and People, the light of God is ariſen, and iniquity is found in you, the decree from the Lord is gone out againſt you to cut you down, you who fight againſt the Lord and know him not, who ſhould puniſh evil doers, and be a terror to them, and encourage and cheriſh them that do well; but the hands of evil doers are ſtrengthned by you, who are one with them in the ſame na<g ref="char:EOLhyphen"/>ture, living in pride and envy, and feeding your ſelves fat for the day of ſlaughter, whiles you impriſon the juſt, and ſcorns thoſe who are ſent of the Lord to forewarn you of all the e<g ref="char:EOLhyphen"/>vil to come, and to declare unto you the day of the Lord, which is nigh at hand upon all the ungodly, and yet you and the deceitful proud Prieſts ſay, let the Lord be glorified, but he will appear to their everlaſting joy, and you ſhall be aſhamed, and better that a Milſtone were hanged about your necks, you proud ones, and you caſt into the Sea, than to of<g ref="char:EOLhyphen"/>fend one of theſe little ones that believe in Chriſt, the mouth of the Lord hath ſpoken it, for the Lord will ſurely come to reward every one of you according to your doings, you can<g ref="char:EOLhyphen"/>not
+<pb n="8" facs="tcp:168218:5"/>eſcape. And that power which you now deſpiſe &amp; blaſ<g ref="char:EOLhyphen"/>pheme, &amp; cal the power of the devil, which makes proud fleſh to tremble before the Lord, O all ye curſed blaſphemers will rent you all to peices, and ſpoil you of all your glory, and pull down all your pride, and lay you in the duſt, and you ſhall know there is a God who will render vengeance upon you, and hew you down ye fruitleſs trees. And that ſimple and deſpiſed light by you in your conſciences, which ſhowes you ſin and evil, &amp; cals you to repentance, which you cal natural, will be your eternal judge, to condemn all your natural abo<g ref="char:EOLhyphen"/>minations &amp; inclinations to evil, &amp; the ſervants of the living God whom you deſpiſe &amp; ſcorn, ſhal rejoyce and ſing praiſes unto the living God, when you ſhall howle and mourn for the miſery that ſhall come upon you; therefore tremble, tremble thou earth before the Lord, thou that art exhalted, bow down before thy Maker, and humble thy ſelf in duſt and aſhes, come down and ſtoop before the Lord, and give glory to him, leaſt you be all conſumed in his fury and indignation; for the loftineſs of man ſhall be laid low, and the crown of pride ſhall wither as the flower of the field in a moment, and then where are you, and what will all your glory avail you, when the Lord will reward you according to your deeds, and caſt you into the lake that burns, who is no reſpecter of per<g ref="char:EOLhyphen"/>ſons, but he that worketh righteouſneſs is accepted with him; Now you have time prize it, and mind the light and be obe<g ref="char:EOLhyphen"/>dient to it, which if you do, it will lead you down into humi<g ref="char:EOLhyphen"/>lity, and the fear of the Lord and cleanſe your hearts, and purge out the unclean nature and bring you to true happi<g ref="char:EOLhyphen"/>nes, and if you diſobey it, it will be your eternal condemna<g ref="char:EOLhyphen"/>tion. And whether you hear or for bear all people, you ſhall witneſs this to be the eternal word of the Lord unto you.</p>
+            <closer>
+               <signed>Chriſtopher Taylor, a Priſoner of the Lord in outward bonds for the truths ſake, at <hi>Appleby</hi> i<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <hi>Weſtmerland.</hi>
+               </signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
